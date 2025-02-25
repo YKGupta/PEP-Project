@@ -1,5 +1,7 @@
 # Inventory Management System
 
+![2025-02-25-18-39-04-_online-video-cutter com_](https://github.com/user-attachments/assets/44429883-1a77-4a0a-961e-a14bbd26b2e8)
+
 ## Overview
 The **Inventory Management System** is designed to streamline inventory management for local provision stores. This platform allows users to explore a wide range of products, add items to their cart, and make secure payments via the **Razorpay payment gateway**. Once an order is placed, users can track their purchases in the **Orders** section.
 
